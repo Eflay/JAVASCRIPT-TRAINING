@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1",
+    "name": "First Extension",
+    "action": {
+        "default_popup": "chap3.html",
+        "default_icon": "Images/icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
